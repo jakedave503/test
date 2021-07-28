@@ -5,7 +5,7 @@
   "ogImageUrl": "http://www.pagely.com/images/pagely-logo.png",
   "faviconLink": "http://www.pagely.com/favicon.ico",
   "customCss": ".pagely-container {asd: asd}",
-  "customHead": "console.log('hello world');",
+  "customHead": "<script>console.log('hello world');</script>",
   "primaryColor": "#87bfff",
   "secondaryColor": "skyblue",
   "backgroundColor": "#fff5db",
