@@ -4,7 +4,7 @@
   "description": "StaticShield helps you password protect sites",
   "ogImageUrl": "http://www.pagely.com/images/pagely-logo.png",
   "faviconLink": "http://www.pagely.com/favicon.ico",
-  "customCss": ".pagely-container {display: none;}",
+  "customCss": "",
   "customHead": "<script>alert('hello world');</script>",
   "primaryColor": "#87bfff",
   "secondaryColor": "skyblue",
