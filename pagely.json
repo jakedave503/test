@@ -8,7 +8,7 @@
   "customHead": "<script>alert('hello world');</script>",
   "primaryColor": "#87bfff",
   "secondaryColor": "skyblue",
-  "backgroundColor": "#fff5db",
+  "backgroundColor": "white",
   "projectTitle": "StaticShield",
   "projectLogo": "https://staticshield.vercel.app/staticshield.png",
   "projectDesc": "StaticShield helps you easily password protect sites",
